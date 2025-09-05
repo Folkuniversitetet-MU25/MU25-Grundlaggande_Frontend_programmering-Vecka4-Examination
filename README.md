@@ -55,7 +55,6 @@ Ni ska under **10-15 minuter**:
 * Ha gjort hemsidan responsiv med minst 2 brytpunkter (d.v.s den ska funka minst i både desktop och mobilt läge).
 * Använda er av semantisk HTML.
 * Inte ha använt er av mer än 2 div:ar per HTML-dokument
-* Använda enbart en CSS-fil
 * Projektet ska innehålla minst ett layoutområde som använder CSS Grid och minst ett layoutområde som använder Flexbox. (Exempel: huvudlayout med Grid, kortlistor eller navigation med Flexbox.) Dessa ska vara implementerade på olika delar av sidan.
 * Använda er av dom bifogade bilderna.
 * Tillgänglighet – alt-texter - Alla bilder ska ha beskrivande alt-texter.
